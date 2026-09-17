@@ -6,6 +6,8 @@
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-aditya1791.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aditya1791.github.io/FullStack-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Ranjan_Swain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan-swain)
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya1791-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1791)
+[![Twitter / X](https://img.shields.io/badge/X-@Monkey__D__Adi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Monkey_D_Adi)
+[![Facebook](https://img.shields.io/badge/Facebook-Aditya1791-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Aditya1791/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-swainaditya85-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/swainaditya85)
 [![Email](https://img.shields.io/badge/Email-swainaditya85@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainaditya85@gmail.com)
 
@@ -151,6 +153,8 @@ I am actively available for select **Full-Stack Developer**, **Frontend Engineer
 - 📧 **Direct Email**: [swainaditya85@gmail.com](mailto:swainaditya85@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/aditya-ranjan-swain](https://linkedin.com/in/aditya-ranjan-swain)
 - 🐙 **GitHub**: [github.com/Aditya1791](https://github.com/Aditya1791)
+- 🐦 **Twitter / X**: [x.com/Monkey_D_Adi](https://x.com/Monkey_D_Adi)
+- 🌐 **Facebook**: [facebook.com/Aditya1791](https://www.facebook.com/Aditya1791/)
 - 🎨 **Dribbble**: [dribbble.com/swainaditya85](https://dribbble.com/swainaditya85)
 - 📍 **Location**: Bhubaneswar, Odisha, India
 
